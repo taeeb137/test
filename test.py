@@ -1,2 +1,2 @@
-import sklearn
-print(sklearn.__version__)
+import sklearn, pandas
+print(sklearn.__version__, pandas.__version__)
